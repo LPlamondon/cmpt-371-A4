@@ -1,0 +1,5 @@
+How to compile and run
+javac *.java
+java TestServer 127.0.0.1 21002 21001
+java TestClient 127.0.0.1 21001 21002
+

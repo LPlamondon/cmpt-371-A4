@@ -1,0 +1,6 @@
+
+The program occassionally bugs and runs forever. I'm not sure what causes this or how to fix it, but terminating the program and reruning it 
+usually fixes it. 
+
+
+Credit to Thomas Plamondon, for helping me with sending multiple packets at once, as well as getting data flowing
